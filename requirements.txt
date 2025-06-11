@@ -1,6 +1,6 @@
-tensorflow==2.14.0  # Ensure compatibility with latest stable TensorFlow
-numpy==1.24.0  # Required for numerical operations
-matplotlib==3.7.1  # Visualization for predictions
-streamlit==1.27.0  # Web UI framework
-pandas==2.0.3  # Data handling
-Pillow==9.4.0  # Image processing for uploaded files
+scikit-learn
+pandas
+tensorflow
+spacy
+textblob
+matplotlib
