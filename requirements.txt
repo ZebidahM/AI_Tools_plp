@@ -2,5 +2,4 @@ scikit-learn
 pandas
 tensorflow
 spacy
-textblob
 matplotlib
